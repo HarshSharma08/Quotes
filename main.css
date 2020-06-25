@@ -1,0 +1,57 @@
+body{
+    min-height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background: indianred;
+    color: brown;
+    font-family: Cambria;
+    font-weight: 400;
+    text-transform: capitalize;
+     
+}
+.container{
+    text-align: center;
+    padding: 2rem;
+    flex: 0 0 50%;
+    height:310px ;
+    border-width: 1px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 5px 5px 20px 0px black;
+    border-radius: 15px;
+   
+}
+
+#generate-btn{
+    border: none;
+    color: #fff;
+    background: indianred;
+    font-size: 1.3rem;
+    padding: 0.45rem 0.5rem;
+    border-radius: 17px;
+
+}
+
+#generate-btn:hover{
+    color:black;
+}
+
+#quote{
+    background: #f9f9f9;
+    border-left: 10px solid rgb(205,92,92);
+    margin:1.5rem;
+    padding: 2rem;
+}
+
+.author{
+    color: indianred;
+    font-size: 400px;
+    
+}
+
+.author:hover{
+    color:black;
+}
+
