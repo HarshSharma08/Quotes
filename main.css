@@ -41,6 +41,9 @@ body{
         display: flex;
         text-align:center;
     }
+    #generate-btn{
+    margin-top:10px;
+    }
 }
 
 #generate-btn{
