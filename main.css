@@ -39,6 +39,7 @@ body{
         margin-top: 5px;
         width: 100px;
         display: flex;
+        text-align:center;
     }
 }
 
