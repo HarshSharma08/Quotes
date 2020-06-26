@@ -32,7 +32,8 @@ body{
     }
     #quote{
         width: 100px;
-        margin-left: 5px;
+        
+        align-items:center;
     }
     .author{
         margin-top: 5px;
